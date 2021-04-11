@@ -1,4 +1,10 @@
-### Hi there 👋
+### mocha ☕
+
+- 🌱 currently learning: Python, Django, Problem Solving
+- 🔭 studying at: [SSAFY](https://www.ssafy.com/)
+- 🎆 Also interest in: Database
+- 📫 How to reach me: visit my [blog](https://dev-mocha.tistory.com/)
+
 
 [![mocha's GitHub stats](https://github-readme-stats.vercel.app/api?username=mocha-123&hide=stars&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
